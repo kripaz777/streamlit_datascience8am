@@ -1,0 +1,25 @@
+About the job
+About ElioElio is building next-generation adaptive sensing systems that combine advanced optics and AI to transform light into structured, actionable information. Our platform uses real-time machine learning to extract rich physical signals beyond traditional imaging, enabling deeper insight and better decision making. Elio’s sensing applications covers biosciences, robotics, semiconductors and more, where understanding complex physical environments is critical.
+About the role We're looking for an experienced AI Research Engineer to join our AI & Data Science team and turn cutting-edge research into technologies that power breakthrough imaging and sensing applications. This role sits naturally where computer vision, representation learning, and reinforcement learning meet. You'll work on problems such as learning real-time acquisition policies that adapt how our sensors capture a scene, and building representations that transfer across imaging modalities. This is a full-time on-site position based in our San Mateo, CA office. 
+Responsibilities
+Research, develop, and ship novel AI algorithms for Elio's adaptive sensing platform.
+Design, build, and validate modeling and analysis pipelines for imaging and sensing applications.
+Own technical problems end to end - hypothesis, experimentation, analysis, and clear communication of results.
+Collaborate across scientific and engineering teams, to translate research into scalable production-grade capabilities.
+Track emerging AI research and bring in ideas that strengthen Elio's technical edge.
+
+Qualifications
+Ph.D. in Computer Science, Electrical Engineering, or a related field.
+8+ years of experience in AI/ML research, engineering, or data science.
+Demonstrated depth in at least one of: computer vision, representation learning, or reinforcement learning.
+Strong publication record in computational methods, machine learning, or related research areas.
+Expert-level Python and PyTorch skills, with proficiency in the modern data science ecosystem (e.g., pandas, scikit-learn).
+Experience with cloud infrastructure, preferably AWS, is a plus.
+Excellent communication skills and the ability to thrive in a collaborative, fast-paced startup environment.
+
+Benefits
+Elio offers a casual, creative and inspiring work environment with talented, fun people, great terms and benefits.
+Competitive salary and benefits package including medical, dental & vision
+401(k) program
+Opportunity to work on cutting-edge research projects
+Chance to make a significant impact in the field of sensing 
